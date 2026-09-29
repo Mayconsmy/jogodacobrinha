@@ -1,5 +1,4 @@
 
-
 # Jogo da Cobrinha (Snake Game)
 
 Um clássico jogo da cobrinha desenvolvido em aula para a disciplina de multimidia.
